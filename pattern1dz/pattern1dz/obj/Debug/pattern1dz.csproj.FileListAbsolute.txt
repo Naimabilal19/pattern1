@@ -1,0 +1,7 @@
+C:\Users\naima\source\repos\pattern1dz\pattern1dz\bin\Debug\pattern1dz.exe.config
+C:\Users\naima\source\repos\pattern1dz\pattern1dz\bin\Debug\pattern1dz.exe
+C:\Users\naima\source\repos\pattern1dz\pattern1dz\bin\Debug\pattern1dz.pdb
+C:\Users\naima\source\repos\pattern1dz\pattern1dz\obj\Debug\pattern1dz.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\pattern1dz\pattern1dz\obj\Debug\pattern1dz.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\pattern1dz\pattern1dz\obj\Debug\pattern1dz.exe
+C:\Users\naima\source\repos\pattern1dz\pattern1dz\obj\Debug\pattern1dz.pdb
